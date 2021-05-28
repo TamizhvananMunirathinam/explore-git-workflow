@@ -2,4 +2,4 @@ git -c http.sslVerify=false clone https://github.com/TamizhvananMunirathinam/exp
 
 git -c http.sslVerify=false clone git@github.com:TamizhvananMunirathinam/explore-git-workflow.git
 
-Feature-1 WIP ...
+feature 1 with 2 bugs feature 2 wip
