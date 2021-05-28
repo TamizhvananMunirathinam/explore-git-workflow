@@ -1,0 +1,5 @@
+git -c http.sslVerify=false clone https://github.com/TamizhvananMunirathinam/explore-git-workflow.git
+
+git -c http.sslVerify=false clone git@github.com:TamizhvananMunirathinam/explore-git-workflow.git
+
+feature 1 with 1 bug
